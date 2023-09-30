@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wk5ZdfjNeirs2jZxwhIYY0zKFG3n4XSA2tIdIO4Vk0ZJsNx6TvOuv+mEZYqrLYgL6gEeG1C6usJFGSeJLcSntw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\DataStructures\\Linear-Data-Structures-Lab\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

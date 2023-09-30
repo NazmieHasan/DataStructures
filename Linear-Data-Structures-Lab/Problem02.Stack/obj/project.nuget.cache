@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b7WOHwNtqnLryCO56VSt1yLjF3QR0eqc1bcTMXCAsbiWen0nvrJozzSr2aphit4i3bEh4X+T4z17hc8jGiwKsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\DataStructures\\Linear-Data-Structures-Lab\\Problem02.Stack\\Problem02.Stack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
