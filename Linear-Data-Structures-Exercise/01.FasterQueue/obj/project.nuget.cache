@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jt5P6mvsO+Ln0+ydEGB4rV4bORgsueEqBw8PB1tMwJnNHh2rWUQU1234gF8KbKmMn0xJgvqjcBurldHdsPK2cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\DataStructures\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.CircularQueue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

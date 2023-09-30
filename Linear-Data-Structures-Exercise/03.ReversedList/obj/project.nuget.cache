@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xo3INsTceNXIgTZkmdElJDBGKMy9TTPFs0WuMy1RqHsnFUlGpDGqsAyO1hid40EWH5bgKcdv7hzOUjsCU2TDBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\DataStructures\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
